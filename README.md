@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zmbelles
-- 👀 I’m interested in Formula 1
-- 🌱 I’m currently learning Gatsby, JavaScript, Jeckyll, Ruby
+- 👀 I’m interested in Back end development primarily focusing on Java and Kotlin Database Access Objects (DAO's)
+- 🌱 I’m currently learning MySQL, Database Indexing, Thread Scheduling
 - 💞️ I’m looking to collaborate on Cryptocurrency mining
 - 📫 How to reach me zmbelles@noctrl.edu
 
