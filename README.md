@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zmbelles
 - 👀 I’m interested in Back end development primarily focusing on Java and Kotlin Database Access Objects (DAO's)
 - 🌱 I’m currently learning MySQL, Database Indexing, Thread Scheduling
-- 💞️ I’m looking to collaborate on Cryptocurrency mining
+- 💞️ I’m looking to collaborate on Open Source projects in Java, C++, MySQL, Kotlin
 - 📫 How to reach me zmbelles@noctrl.edu
 
 <!---
