@@ -1,5 +1,5 @@
 # Zachary Belles
-## Senior Computer Science major at North Central College
+## Senior Computer Science major at North Central College looking for oportunities post graduation
 
 ### Languages known in order of proficiency
 1. Java
