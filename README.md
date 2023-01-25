@@ -16,6 +16,8 @@
 3. Next.js
 4. MongoDB
 5. Express.js
+6. Tailwind CSS
+7. Gatsby
 
 #### Date of graduation
 May 7, 2023
