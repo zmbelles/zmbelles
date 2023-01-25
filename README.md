@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @zmbelles
-- 👀 I’m interested in Back end development primarily focusing on Java and Kotlin Database Access Objects (DAO's)
-- 🌱 I’m currently learning MySQL, Database Indexing, Thread Scheduling
-- 💞️ I’m looking to collaborate on Open Source projects in Java, C++, MySQL, Kotlin
-- 📫 How to reach me zmbelles@noctrl.edu
+# Zachary Belles
+## Senior Computer Science major at North Central College
+
+### Languages known in order of proficiency
+1. Java
+2. JavaScript
+3. C++
+4. TypeScript
+5. MySQL
+6. Python
+7. C
+
+### Frameworks known in order of proficiency
+1. React.js
+2. Node.js
+3. Next.js
+4. MongoDB
+5. Express.js
+
+#### Date of graduation
+May 7, 2023
+
+### Current project
+Connect: the social media hub. An app that will allow users to scroll through and post to all of their social media platforms at once.
+
+### Current project estimated completion date
+April 25, 2023
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
