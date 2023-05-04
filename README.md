@@ -1,5 +1,5 @@
 # Zachary Belles
-## Application Developer at Solution Source. Alumni of North Central College.
+## Application Development Engineer at Solution Source. Alumni of North Central College.
 
 ### Languages known in order of proficiency
 1. Java
