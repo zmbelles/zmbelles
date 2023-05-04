@@ -3,9 +3,9 @@
 
 ### Languages known in order of proficiency
 1. JavaScript
-2. Java
-3. C++
-4. TypeScript
+2. TypeScript
+3. Java
+4. C++
 5. MySQL
 6. Python
 7. C#
