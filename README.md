@@ -1,5 +1,5 @@
 # Zachary Belles
-## Senior Computer Science major at North Central College looking for oportunities post graduation
+## Application Developer at Solution Source. Alumni of North Central College
 
 ### Languages known in order of proficiency
 1. Java
