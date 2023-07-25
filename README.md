@@ -1,33 +1,31 @@
 # Zachary Belles
-## Application Development Engineer at Solution Source. Alumni of North Central College.
+## Application Development Engineer at Solution Source. 2023 Graduate of North Central College.
 
 ### Languages known in order of proficiency
 1. JavaScript
-2. TypeScript
-3. Java
-4. C++
-5. MySQL
-6. Python
-7. C#
-8. C
+2. SQL (Oracle, MySQL, & SQL-92)
+3. TypeScript
+4. Java
+5. C++
+7. Python
+8. C#
+9. C
 
-### Frameworks known in order of proficiency
-1. React.js
+### Frameworks & Libraries known in order of proficiency
+1. jQuery
 2. Vue.js
-3. Next.js
-4. MongoDB
-5. Express.js
-6. Tailwind CSS
-7. Gatsby
-
-#### Date of graduation
-May 7, 2023
+3. React.js
+4. Next.js
+5. MongoDB
+6. Express.js
+7. Tailwind CSS
+8. Gatsby
 
 ### Current project
-my own personal website using Javascript and Vue.js
+version two of my personal site
 
 ### Current project estimated completion date
-May 15, 2023
+August 2023
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
