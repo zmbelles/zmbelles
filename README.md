@@ -22,10 +22,10 @@
 8. Gatsby
 
 ### Current project
-version two of my personal site
+Database Administration App with Vue
 
 ### Current project estimated completion date
-August 2023
+April 2024
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
