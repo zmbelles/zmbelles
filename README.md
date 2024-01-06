@@ -17,11 +17,17 @@
 5. MongoDB
 6. Express.js
 
-### Current project
-Database Administration App with Vue
+### Current personal project
+hyper-tic-tac-toe on website (zacharybelles.com/games/tic-tac-toe when finished)
 
-### Current project estimated completion date
-April 2024
+### Current personal project estimated completion date
+February 2024
+
+### Current work project
+An application that finds the most optimal route to deliver orders from our client's warehouse to their clients.
+
+### Current work project estimated completion date
+March 2024
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
