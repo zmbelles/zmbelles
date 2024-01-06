@@ -8,8 +8,6 @@
 4. Java
 5. C++
 7. Python
-8. C#
-9. C
 
 ### Frameworks & Libraries known in order of proficiency
 1. jQuery
@@ -18,8 +16,6 @@
 4. Next.js
 5. MongoDB
 6. Express.js
-7. Tailwind CSS
-8. Gatsby
 
 ### Current project
 Database Administration App with Vue
