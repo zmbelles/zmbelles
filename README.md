@@ -15,13 +15,14 @@
 3. React.js
 4. Next.js
 5. MongoDB
-6. Express.js
+6. Knockout.js
 
 ### Current personal project
-hyper-tic-tac-toe on website (zacharybelles.com/games/tic-tac-toe when finished)
+No Active Personal Project.
+Current Paused Project: BattleShip
 
 ### Current personal project estimated completion date
-February 2024
+N/A
 
 ### Current work project
 An application that finds the most optimal route to deliver orders from our client's warehouse to their clients.
