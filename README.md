@@ -7,7 +7,6 @@
 3. TypeScript
 4. Java
 5. C++
-7. Python
 
 ### Frameworks & Libraries known in order of proficiency
 1. jQuery
@@ -18,17 +17,19 @@
 6. Knockout.js
 
 ### Current personal project
-No Active Personal Project.
-Current Paused Project: BattleShip
+Open Source Sales Order Entry PDF
 
 ### Current personal project estimated completion date
-N/A
+August 2024
 
 ### Current work project
-An application that finds the most optimal route to deliver orders from our client's warehouse to their clients.
+Machine Routing interface for a Metal Fabrication company
 
 ### Current work project estimated completion date
-March 2024
+January 2025
+
+### Current work project estimated hours needed
+765
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
