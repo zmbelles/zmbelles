@@ -23,7 +23,7 @@ Open Source Sales Order Entry PDF
 August 2024
 
 ### Current work project
-Machine Routing interface for a Metal Fabrication company
+Machine Routing interface for a Metal fabrication company
 
 ### Current work project estimated completion date
 January 2025
