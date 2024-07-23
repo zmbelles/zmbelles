@@ -9,11 +9,11 @@
 5. C++
 
 ### Frameworks & Libraries known in order of proficiency
-1. jQuery
-2. Vue.js
-3. React.js
+1. Vue.js
+2. jQuery 
+3. MongoDB
 4. Next.js
-5. MongoDB
+5. React.js
 6. Knockout.js
 
 ### Current personal project
