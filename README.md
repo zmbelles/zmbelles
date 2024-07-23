@@ -22,15 +22,6 @@ Open Source Sales Order Entry PDF
 ### Current personal project estimated completion date
 August 2024
 
-### Current work project
-Machine Routing interface for a Metal fabrication company
-
-### Current work project estimated completion date
-January 2025
-
-### Current work project estimated hours needed
-765
-
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
