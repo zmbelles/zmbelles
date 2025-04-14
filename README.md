@@ -17,10 +17,10 @@
 6. Knockout.js
 
 ### Current personal project
-Open Source Sales Order Entry PDF
+Sales Order Billing Script Optimization
 
 ### Current personal project estimated completion date
-August 2024
+May 2025
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
