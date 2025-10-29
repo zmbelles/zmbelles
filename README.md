@@ -23,8 +23,8 @@ Racing Team Website
 January 2026
 
 ### Current work project
-Vendor Bill Approval Application
-Credit Memo Approval Application
+1. Vendor Bill Approval Application
+2. Credit Memo Approval Application
 
 ### Current work project estimated completion date
 December 2025
