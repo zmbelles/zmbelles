@@ -17,10 +17,17 @@
 6. Knockout.js
 
 ### Current personal project
-Sales Order Billing Script Optimization
+Racing Team Website 
 
 ### Current personal project estimated completion date
-May 2025
+January 2026
+
+### Current work project
+Vendor Bill Approval Application
+Credit Memo Approval Application
+
+### Current work project estimated completion date
+December 2025
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
