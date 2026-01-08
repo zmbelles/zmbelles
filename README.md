@@ -1,5 +1,5 @@
 # Zachary Belles
-## NetSuite developer at Procare Solutions. 2023 Graduate of North Central College.
+## NetSuite developer at NetGain Solutions. 2023 Graduate of North Central College.
 
 ### Languages known in order of proficiency
 1. JavaScript
@@ -23,11 +23,11 @@ Racing Team Website
 January 2026
 
 ### Current work project
-1. Vendor Bill Approval Application
-2. Credit Memo Approval Application
+1. NetSuite MCP Tool Implementation with Claude
+2. General Support Tickets
 
 ### Current work project estimated completion date
-December 2025
+April 2026
 
 <!---
 zmbelles/zmbelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
