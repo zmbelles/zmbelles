@@ -12,9 +12,10 @@
 1. Vue.js
 2. jQuery 
 3. MongoDB
-4. Next.js
-5. React.js
-6. Knockout.js
+4. React.js
+5. Oracle JET
+6. Next.js
+7. Knockout.js
 
 ### Current personal project
 Racing Team Website 
