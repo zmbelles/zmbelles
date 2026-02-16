@@ -1,9 +1,9 @@
 # Zachary Belles
-## NetSuite developer at NetGain Solutions. 2023 Graduate of North Central College.
+## Developer II at NetGain Solutions. 2023 Graduate of North Central College.
 
 ### Languages known in order of proficiency
 1. JavaScript
-2. SQL (Oracle, MySQL, & SQL-92)
+2. SQL (Oracle, MySQL, NoSQL, & SQL-92)
 3. TypeScript
 4. Java
 5. C++
@@ -18,10 +18,10 @@
 7. Knockout.js
 
 ### Current personal project
-Racing Team Website 
+Renderly Client Website (freedom-fridays)
 
 ### Current personal project estimated completion date
-January 2026
+June 2026
 
 ### Current work project
 1. NetSuite MCP Tool Implementation with Claude
